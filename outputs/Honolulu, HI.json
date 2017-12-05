@@ -1,0 +1,27 @@
+{
+  "Beer Lab HI": {
+    "brewery_link": "https://www.beeradvocate.com/beer/profile/44528/",
+    "address": " - 1010 University Ave, Honolulu",
+    "rating": 0
+  },
+  "Aloha Beer Company": {
+    "brewery_link": "https://www.beeradvocate.com/beer/profile/3482/",
+    "address": " - 700 Queen St, Honolulu",
+    "rating": 0
+  },
+  "Waikiki Brewing Company": {
+    "brewery_link": "https://www.beeradvocate.com/beer/profile/39753/",
+    "address": " - 1945 Kalakaua Ave, Honolulu",
+    "rating": 0
+  },
+  "Gordon Biersch Brewery & Restaurant": {
+    "brewery_link": "https://www.beeradvocate.com/beer/profile/1563/",
+    "address": " - 1 Aloha Tower Dr, Honolulu",
+    "rating": 0
+  },
+  "Honolulu Beerworks": {
+    "brewery_link": "https://www.beeradvocate.com/beer/profile/34519/",
+    "address": " - 328 Cooke St, Honolulu",
+    "rating": 0
+  }
+}
