@@ -15,6 +15,12 @@ def get_cities
 	city_links
 end
 
+# def run_brewery(brewery_link)
+#   brewery_page = HTTParty.get(brewery_link)
+#   parse_brewery_page = Nokogiri::HTML(brewery_page)
+#   ## get various select elements
+#   rating = parse_brewery_page.css('div#score_box span[class=ba-ravg]').text.to_f
+
 def run_city(city, link)
 	## get links by section
 	city_page = HTTParty.get(link)
@@ -25,8 +31,9 @@ def run_city(city, link)
 		brewery_link = @domain_url + element.css('a')[0]['href']
 		brewery_page = HTTParty.get(brewery_link)
 		parse_brewery_page = Nokogiri::HTML(brewery_page)
-		rating = parse_brewery_page.css('div#score-box span[class=ba-ravg]').text.to_i
-		breweries[element.css('b').text] = {'brewery_link'=>brewery_link, 'address'=>element.css('span').text, 'rating'=>rating}
+		rating = parse_brewery_page.css('div#score_box span[class=ba-ravg]').text.to_f
+    types = parse_brewery_page.css('b:contains("Type:")')[0].next.text.strip
+		breweries[element.css('b').text] = {'brewery_link'=>brewery_link, 'address'=>element.css('span').text.sub(' - ', ''), 'rating'=>rating, 'types'=>types}
 		$count = i
 
 	end
