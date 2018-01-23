@@ -1,0 +1,360 @@
+{
+  "Albuquerque, NM": {
+    "La Cumbre Brewing Co.": {
+      "brewery_name": "La Cumbre Brewing Co.",
+      "rating": 3.99,
+      "types": "Brewery, Bar, Beer-to-go",
+      "address": ""
+    },
+    "Tractor Brewing Company": {
+      "brewery_name": "Tractor Brewing Company",
+      "rating": 3.91,
+      "types": "Brewery, Bar, Beer-to-go",
+      "address": ""
+    },
+    "Steel Bender Brewyard": {
+      "brewery_name": "Steel Bender Brewyard",
+      "rating": 3.89,
+      "types": "Brewery, Bar, Eatery, Beer-to-go",
+      "address": ""
+    },
+    "Boxing Bear Brewing Co.": {
+      "brewery_name": "Boxing Bear Brewing Co.",
+      "rating": 3.84,
+      "types": "Brewery, Bar, Homebrew, Beer-to-go",
+      "address": ""
+    },
+    "Marble Brewery": {
+      "brewery_name": "Marble Brewery",
+      "rating": 3.83,
+      "types": "Brewery, Bar, Eatery, Beer-to-go",
+      "address": ""
+    },
+    "B2B Bistronomy": {
+      "brewery_name": "B2B Bistronomy",
+      "rating": 3.75,
+      "types": "Brewery, Bar, Eatery, Beer-to-go",
+      "address": ""
+    },
+    "Bosque Brewing Co.": {
+      "brewery_name": "Bosque Brewing Co.",
+      "rating": 3.77,
+      "types": "Brewery, Bar, Eatery, Beer-to-go",
+      "address": ""
+    },
+    "The Stumbling Steer": {
+      "brewery_name": "The Stumbling Steer",
+      "rating": 3.72,
+      "types": "Brewery, Bar, Eatery",
+      "address": ""
+    },
+    "Ponderosa Brewing Company": {
+      "brewery_name": "Ponderosa Brewing Company",
+      "rating": 3.74,
+      "types": "Brewery, Bar, Eatery, Beer-to-go",
+      "address": ""
+    },
+    "Canteen Brewhouse": {
+      "brewery_name": "Canteen Brewhouse",
+      "rating": 3.71,
+      "types": "Brewery, Bar, Eatery, Beer-to-go",
+      "address": ""
+    },
+    "Rio Bravo Brewing": {
+      "brewery_name": "Rio Bravo Brewing",
+      "rating": 3.59,
+      "types": "Brewery, Bar, Eatery, Beer-to-go",
+      "address": ""
+    },
+    "Starr Brothers Brewing Company": {
+      "brewery_name": "Starr Brothers Brewing Company",
+      "rating": 3.51,
+      "types": "Brewery, Bar, Eatery",
+      "address": ""
+    },
+    "The 377 Brewery": {
+      "brewery_name": "The 377 Brewery",
+      "rating": 3.45,
+      "types": "Brewery, Bar",
+      "address": ""
+    },
+    "Quarter Celtic Brewpub": {
+      "brewery_name": "Quarter Celtic Brewpub",
+      "rating": 3.52,
+      "types": "Brewery, Bar, Eatery",
+      "address": ""
+    },
+    "Bow & Arrow Brewing": {
+      "brewery_name": "Bow & Arrow Brewing",
+      "rating": 3.52,
+      "types": "Brewery, Bar",
+      "address": ""
+    },
+    "Red Door Brewing": {
+      "brewery_name": "Red Door Brewing",
+      "rating": 3.51,
+      "types": "Brewery, Bar, Beer-to-go",
+      "address": ""
+    },
+    "Boese Brothers Brewery": {
+      "brewery_name": "Boese Brothers Brewery",
+      "rating": 3.46,
+      "types": "Brewery, Bar, Beer-to-go",
+      "address": ""
+    },
+    "Kelly's Brewpub": {
+      "brewery_name": "Kelly's Brewpub",
+      "rating": 3.5,
+      "types": "Brewery, Bar, Eatery, Homebrew, Beer-to-go",
+      "address": ""
+    },
+    "Sidetrack Brewing Company": {
+      "brewery_name": "Sidetrack Brewing Company",
+      "rating": 3.4,
+      "types": "Brewery, Bar",
+      "address": ""
+    },
+    "Dialogue Brewing": {
+      "brewery_name": "Dialogue Brewing",
+      "rating": 3.44,
+      "types": "Brewery, Bar",
+      "address": ""
+    },
+    "Lizard Tail Brewing": {
+      "brewery_name": "Lizard Tail Brewing",
+      "rating": 3.31,
+      "types": "Brewery, Bar, Beer-to-go",
+      "address": ""
+    },
+    "Nexus Brewery": {
+      "brewery_name": "Nexus Brewery",
+      "rating": 3.42,
+      "types": "Brewery, Bar, Eatery, Beer-to-go",
+      "address": ""
+    }
+  },
+  "Alexandria, VA": {
+    "Brew Republic Bierwerks": {
+      "brewery_name": "Brew Republic Bierwerks",
+      "rating": 4.67,
+      "types": "Brewery, Bar, Eatery, Beer-to-go",
+      "address": ""
+    },
+    "Aslin Beer Company": {
+      "brewery_name": "Aslin Beer Company",
+      "rating": 4.17,
+      "types": "Brewery, Bar, Beer-to-go",
+      "address": ""
+    },
+    "Ocelot Brewing Company": {
+      "brewery_name": "Ocelot Brewing Company",
+      "rating": 4.0,
+      "types": "Brewery, Bar, Beer-to-go",
+      "address": ""
+    },
+    "Ornery Beer Company Public House": {
+      "brewery_name": "Ornery Beer Company Public House",
+      "rating": 4.02,
+      "types": "Brewery, Bar, Eatery, Beer-to-go",
+      "address": ""
+    },
+    "Vanish Beer": {
+      "brewery_name": "Vanish Beer",
+      "rating": 3.91,
+      "types": "Brewery, Bar, Beer-to-go",
+      "address": ""
+    },
+    "Solace Brewing": {
+      "brewery_name": "Solace Brewing",
+      "rating": 3.85,
+      "types": "Brewery, Bar, Beer-to-go",
+      "address": ""
+    },
+    "2 Silos Brewing Co": {
+      "brewery_name": "2 Silos Brewing Co",
+      "rating": 3.85,
+      "types": "Brewery, Bar, Eatery",
+      "address": ""
+    },
+    "Port City Brewing": {
+      "brewery_name": "Port City Brewing",
+      "rating": 3.82,
+      "types": "Brewery, Bar, Beer-to-go",
+      "address": ""
+    },
+    "BadWolf Brewing Company (Big BadWolf)": {
+      "brewery_name": "BadWolf Brewing Company (Big BadWolf)",
+      "rating": 3.81,
+      "types": "Brewery, Bar, Beer-to-go",
+      "address": ""
+    },
+    "Heroic Aleworks": {
+      "brewery_name": "Heroic Aleworks",
+      "rating": 3.81,
+      "types": "Brewery, Bar",
+      "address": ""
+    },
+    "Twinpanzee Brewing Company": {
+      "brewery_name": "Twinpanzee Brewing Company",
+      "rating": 3.81,
+      "types": "Brewery, Beer-to-go",
+      "address": ""
+    },
+    "Crooked Run Central": {
+      "brewery_name": "Crooked Run Central",
+      "rating": 3.8,
+      "types": "Brewery, Bar, Eatery",
+      "address": ""
+    },
+    "Black Hoof Brewing Co.": {
+      "brewery_name": "Black Hoof Brewing Co.",
+      "rating": 3.79,
+      "types": "Brewery, Bar",
+      "address": ""
+    },
+    "Barnhouse Brewery": {
+      "brewery_name": "Barnhouse Brewery",
+      "rating": 3.78,
+      "types": "Brewery, Bar, Beer-to-go",
+      "address": ""
+    },
+    "Mad Fox Brewing Company": {
+      "brewery_name": "Mad Fox Brewing Company",
+      "rating": 3.78,
+      "types": "Brewery, Bar, Eatery, Beer-to-go",
+      "address": ""
+    },
+    "Dog Money Restaurant & Brewery": {
+      "brewery_name": "Dog Money Restaurant & Brewery",
+      "rating": 3.76,
+      "types": "Brewery, Bar, Eatery",
+      "address": ""
+    },
+    "Old Ox Brewery": {
+      "brewery_name": "Old Ox Brewery",
+      "rating": 3.76,
+      "types": "Brewery, Bar, Beer-to-go",
+      "address": ""
+    },
+    "Black Walnut Brewery": {
+      "brewery_name": "Black Walnut Brewery",
+      "rating": 3.74,
+      "types": "Brewery, Bar",
+      "address": ""
+    },
+    "Crooked Run Brewing": {
+      "brewery_name": "Crooked Run Brewing",
+      "rating": 3.74,
+      "types": "Brewery, Bar, Beer-to-go",
+      "address": ""
+    },
+    "Ono Brewing Company": {
+      "brewery_name": "Ono Brewing Company",
+      "rating": 3.71,
+      "types": "Brewery, Bar",
+      "address": ""
+    },
+    "Loudoun Brewing Co.": {
+      "brewery_name": "Loudoun Brewing Co.",
+      "rating": 3.73,
+      "types": "Brewery, Bar, Beer-to-go",
+      "address": ""
+    },
+    "Sweetwater Tavern & Brewery": {
+      "brewery_name": "Sweetwater Tavern & Brewery",
+      "rating": 3.63,
+      "types": "Brewery, Bar, Eatery, Beer-to-go",
+      "address": ""
+    },
+    "Mustang Sally Brewing Company": {
+      "brewery_name": "Mustang Sally Brewing Company",
+      "rating": 3.71,
+      "types": "Brewery, Bar, Beer-to-go",
+      "address": ""
+    },
+    "Lost Rhino Brewing Company": {
+      "brewery_name": "Lost Rhino Brewing Company",
+      "rating": 3.72,
+      "types": "Brewery, Bar, Eatery",
+      "address": ""
+    },
+    "Growling Bear Brewing Company": {
+      "brewery_name": "Growling Bear Brewing Company",
+      "rating": 3.68,
+      "types": "Brewery, Bar, Beer-to-go",
+      "address": ""
+    },
+    "Gordon Biersch Brewery & Restaurant": {
+      "brewery_name": "Gordon Biersch Brewery & Restaurant",
+      "rating": 3.71,
+      "types": "Brewery, Bar, Eatery, Beer-to-go",
+      "address": ""
+    },
+    "Rock Bottom Restaurant and Brewery": {
+      "brewery_name": "Rock Bottom Restaurant and Brewery",
+      "rating": 3.7,
+      "types": "Brewery, Bar, Eatery",
+      "address": ""
+    },
+    "Wild Run Brewery": {
+      "brewery_name": "Wild Run Brewery",
+      "rating": 3.64,
+      "types": "Brewery, Bar, Homebrew",
+      "address": ""
+    },
+    "BadWolf Brewing Company (Little BadWolf)": {
+      "brewery_name": "BadWolf Brewing Company (Little BadWolf)",
+      "rating": 3.67,
+      "types": "Brewery, Bar, Beer-to-go",
+      "address": ""
+    },
+    "Lake Anne Brew House": {
+      "brewery_name": "Lake Anne Brew House",
+      "rating": 3.63,
+      "types": "Brewery, Bar, Beer-to-go",
+      "address": ""
+    },
+    "Capitol City Brewing": {
+      "brewery_name": "Capitol City Brewing",
+      "rating": 3.65,
+      "types": "Brewery, Bar, Eatery",
+      "address": ""
+    },
+    "Caboose Brewing Co.": {
+      "brewery_name": "Caboose Brewing Co.",
+      "rating": 3.64,
+      "types": "Brewery, Bar, Eatery, Beer-to-go",
+      "address": ""
+    },
+    "Portner Brewhouse": {
+      "brewery_name": "Portner Brewhouse",
+      "rating": 3.56,
+      "types": "Brewery, Bar, Eatery, Beer-to-go",
+      "address": ""
+    },
+    "Heritage Brewing Co.": {
+      "brewery_name": "Heritage Brewing Co.",
+      "rating": 3.58,
+      "types": "Brewery, Bar",
+      "address": ""
+    },
+    "Holy Brew Brewing Company": {
+      "brewery_name": "Holy Brew Brewing Company",
+      "rating": 3.4,
+      "types": "Brewery",
+      "address": ""
+    },
+    "Honor Brewing Company": {
+      "brewery_name": "Honor Brewing Company",
+      "rating": 3.49,
+      "types": "Brewery",
+      "address": ""
+    },
+    "New District Brewing Company": {
+      "brewery_name": "New District Brewing Company",
+      "rating": 3.21,
+      "types": "Brewery, Bar",
+      "address": ""
+    }
+  }
+}
