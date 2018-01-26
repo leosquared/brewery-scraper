@@ -9,7 +9,7 @@ This small ruby script scrapes part of the [Beer Advocate](https://www.beeradvoc
 - [Beer](https://www.beeradvocate.com/beer/profile/385/18093/)
 
 ### Still To Do
-- get address formatted correctly
+- place stats, city stats
 - scrape all places for cities listed
 - scrape all metadata for a given *place*
 - build linear model to predict score
