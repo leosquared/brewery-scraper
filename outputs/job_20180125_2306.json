@@ -1,0 +1,843 @@
+{
+  "Albuquerque, NM": {
+    "La Cumbre Brewing Co.": {
+      "brewery_name": "La Cumbre Brewing Co.",
+      "rating": 3.99,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "(505) 872-0225 |",
+      "website": "lacumbrebrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  taxguyjase on 01-18-2011",
+      "address": "3313 Girard Blvd NE Albuquerque , New Mexico , 87107-1930 United States"
+    },
+    "Tractor Brewing Company": {
+      "brewery_name": "Tractor Brewing Company",
+      "rating": 3.91,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "(505) 433-5654 |",
+      "website": "getplowed.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  rheone on 12-14-2012",
+      "address": "118 Tulane Dr SE Albuquerque , New Mexico , 87106-1440 United States"
+    },
+    "Steel Bender Brewyard": {
+      "brewery_name": "Steel Bender Brewyard",
+      "rating": 3.89,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "(505) 433-3537 |",
+      "website": "steelbenderbrewyard.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  denver10 on 03-26-2017",
+      "address": "8305 2nd St NW Albuquerque , New Mexico , 87114-1038 United States"
+    },
+    "Boxing Bear Brewing Co.": {
+      "brewery_name": "Boxing Bear Brewing Co.",
+      "rating": 3.84,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Homebrew",
+        "Beer-to-go"
+      ],
+      "phone": "(505) 897-2327 |",
+      "website": "boxingbearbrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  ONovoMexicano on 08-03-2014",
+      "address": "10200 Corrales Rd NW Albuquerque , New Mexico , 87114-9268 United States"
+    },
+    "Marble Brewery": {
+      "brewery_name": "Marble Brewery",
+      "rating": 3.83,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "(505) 243-2739 |",
+      "website": "marblebrewery.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  Wolfsdenbrew on 05-02-2008",
+      "address": "111 Marble Ave NW Albuquerque , New Mexico , 87102-2315 United States"
+    },
+    "B2B Bistronomy": {
+      "brewery_name": "B2B Bistronomy",
+      "rating": 3.75,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "(505) 262-2222 |",
+      "website": "bistronomyb2b.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  nathanmiller on 01-15-2015",
+      "address": "3118 Central Ave SE Albuquerque , New Mexico , 87106-2216 United States"
+    },
+    "Bosque Brewing Co.": {
+      "brewery_name": "Bosque Brewing Co.",
+      "rating": 3.77,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "(505) 433-3889 |",
+      "website": "bosquebrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  rheone on 12-14-2012",
+      "address": "8900 San Mateo Blvd NE Albuquerque , New Mexico , 87113-2459 United States"
+    },
+    "The Stumbling Steer": {
+      "brewery_name": "The Stumbling Steer",
+      "rating": 3.72,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "(505) 792-7805 |",
+      "website": "thestumblingsteer.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  M_chav on 08-09-2014",
+      "address": "3700 Ellison Rd NW Albuquerque , New Mexico , 87114-7009 United States"
+    },
+    "Ponderosa Brewing Company": {
+      "brewery_name": "Ponderosa Brewing Company",
+      "rating": 3.74,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "(505) 639-5941 |",
+      "website": "ponderosabrewing.net",
+      "notes": "No notes at this time.",
+      "author": "Added by  ONovoMexicano on 09-19-2014",
+      "address": "1761 Bellamah Ave NW Albuquerque , New Mexico , 87104-2205 United States"
+    },
+    "Canteen Brewhouse": {
+      "brewery_name": "Canteen Brewhouse",
+      "rating": 3.72,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "(505) 881-2737 |",
+      "website": "ilvicino.com",
+      "notes": "This brewery provides beer for all Il Vicino locations in NM.",
+      "author": "Added by  Jason on 05-30-2006",
+      "address": "2381 Aztec Rd NE Albuquerque , New Mexico , 87107-4207 United States"
+    },
+    "Rio Bravo Brewing": {
+      "brewery_name": "Rio Bravo Brewing",
+      "rating": 3.6,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "(505) 900-3909 |",
+      "website": "riobravobrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  ONovoMexicano on 08-24-2015",
+      "address": "1912 2nd St NW Albuquerque , New Mexico , 87102-1453 United States"
+    },
+    "Starr Brothers Brewing Company": {
+      "brewery_name": "Starr Brothers Brewing Company",
+      "rating": 3.51,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "(505) 492-2752 |",
+      "website": "starrbrothersbrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  ONovoMexicano on 01-21-2016",
+      "address": "5700 San Antonio Dr NE Ste B1 Albuquerque , New Mexico , 87109-4128 United States"
+    },
+    "The 377 Brewery": {
+      "brewery_name": "The 377 Brewery",
+      "rating": 3.45,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "(505) 934-0795 |",
+      "website": "the377.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  Zonian1 on 07-01-2017",
+      "address": "2027 Yale Blvd SE Albuquerque , New Mexico , 87106 United States"
+    },
+    "Red Door Brewing": {
+      "brewery_name": "Red Door Brewing",
+      "rating": 3.55,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "(505) 633-6675 |",
+      "website": "reddoorbrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  ONovoMexicano on 09-19-2014",
+      "address": "1001 Candelaria Rd NE Albuquerque , New Mexico , 87107-2115 United States"
+    },
+    "Quarter Celtic Brewpub": {
+      "brewery_name": "Quarter Celtic Brewpub",
+      "rating": 3.52,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "(505) 503-1387 |",
+      "website": "quartercelticbrewpub.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  ONovoMexicano on 03-10-2016",
+      "address": "1100 San Mateo Blvd NE Ste 50 Albuquerque , New Mexico , 87110-6473 United States"
+    },
+    "Bow & Arrow Brewing": {
+      "brewery_name": "Bow & Arrow Brewing",
+      "rating": 3.52,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "(505) 247-9800 |",
+      "website": "bowandarrowbrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  ONovoMexicano on 02-14-2016",
+      "address": "602 McKnight Ave NW Albuquerque , New Mexico , 87102-1237 United States"
+    },
+    "Boese Brothers Brewery": {
+      "brewery_name": "Boese Brothers Brewery",
+      "rating": 3.46,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "(505) 382-7060 |",
+      "notes": "No notes at this time.",
+      "author": "Added by  ONovoMexicano on 08-18-2015",
+      "address": "601 Gold Ave SW Albuquerque , New Mexico , 87102-3119 United States"
+    },
+    "Kelly's Brewpub": {
+      "brewery_name": "Kelly's Brewpub",
+      "rating": 3.5,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Homebrew",
+        "Beer-to-go"
+      ],
+      "phone": "(505) 262-2739 |",
+      "website": "kellysbrewpub.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  BeerGlassesCollector",
+      "address": "3222 Central Avenue SE Albuquerque , New Mexico , 87106-1458 United States"
+    },
+    "Sidetrack Brewing Company": {
+      "brewery_name": "Sidetrack Brewing Company",
+      "rating": 3.4,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "(505) 288-6468 |",
+      "website": "sidetrackbrewing.net",
+      "notes": "No notes at this time.",
+      "author": "Added by  ONovoMexicano on 01-21-2016",
+      "address": "413 2nd St SW Albuquerque , New Mexico , 87102-3307 United States"
+    },
+    "Dialogue Brewing": {
+      "brewery_name": "Dialogue Brewing",
+      "rating": 3.44,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "(505) 585-1501 |",
+      "website": "dialoguebrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  denver10 on 11-04-2016",
+      "address": "1501 1st St NW Albuquerque , New Mexico , 87102 United States"
+    },
+    "Lizard Tail Brewing": {
+      "brewery_name": "Lizard Tail Brewing",
+      "rating": 3.31,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "(505) 717-1301 |",
+      "website": "lizardtailbrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  ONovoMexicano on 09-19-2014",
+      "address": "9800 Montgomery Blvd NE Ste 7 Albuquerque , New Mexico , 87111-3560 United States"
+    },
+    "Nexus Brewery": {
+      "brewery_name": "Nexus Brewery",
+      "rating": 3.42,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "(505) 242-4100 |",
+      "website": "nexusbrewery.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  kcarson330 on 08-05-2011",
+      "address": "4730 Pan American East Fwy NE Ste D Albuquerque , New Mexico , 87109-2204 United States"
+    }
+  },
+  "Alexandria, VA": {
+    "Brew Republic Bierwerks": {
+      "brewery_name": "Brew Republic Bierwerks",
+      "rating": 4.67,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "(703) 594-7950 |",
+      "notes": "No notes at this time.",
+      "author": "Added by  Boone757 on 02-04-2017",
+      "address": "15201 Potomac Town Pl Woodbridge , Virginia , 22191 United States brewrepublic.beer"
+    },
+    "Aslin Beer Company": {
+      "brewery_name": "Aslin Beer Company",
+      "rating": 4.16,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "website": "aslinbeer.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  Ngntjp on 09-29-2015",
+      "address": "257 Sunset Park Dr Herndon , Virginia , 20170-5220 United States |"
+    },
+    "Ocelot Brewing Company": {
+      "brewery_name": "Ocelot Brewing Company",
+      "rating": 4.0,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "(703) 665-2146 |",
+      "website": "ocelotbrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  skinsfan on 04-10-2015",
+      "address": "23600 Overland Dr Ste 180 Sterling , Virginia , 20166-4441 United States"
+    },
+    "Ornery Beer Company Public House": {
+      "brewery_name": "Ornery Beer Company Public House",
+      "rating": 4.02,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "(703) 490-6400 |",
+      "website": "ornerybeer.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  skinsfan on 06-17-2015",
+      "address": "14389 Potomac Mills Rd Woodbridge , Virginia , 22192-6806 United States"
+    },
+    "Beltway Brewing Company": {
+      "brewery_name": "Beltway Brewing Company",
+      "rating": 3.99,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "(571) 989-2739 |",
+      "website": "beltwaybrewco.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  Drewtyson on 10-23-2013",
+      "address": "22620 Davis Dr Ste 110 Sterling , Virginia , 20164-4470 United States"
+    },
+    "Vanish Beer": {
+      "brewery_name": "Vanish Beer",
+      "rating": 3.91,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "website": "vanishbeer.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  skinsfan on 12-14-2015",
+      "address": "42264 Leelynn Farm Ln Leesburg , Virginia , 20176-5434 United States |"
+    },
+    "Solace Brewing": {
+      "brewery_name": "Solace Brewing",
+      "rating": 3.85,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "(703) 345-5630 |",
+      "website": "solacebrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  Boone757 on 06-18-2017",
+      "address": "42615 Trade West Dr, Ste 100 Dulles , Virginia , 20166 United States"
+    },
+    "2 Silos Brewing Co": {
+      "brewery_name": "2 Silos Brewing Co",
+      "rating": 3.85,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "(703) 420-2264 |",
+      "website": "2silosbrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  Boone757 on 11-18-2017",
+      "address": "9925 Discovery Blvd Manassas , Virginia , 20109 United States"
+    },
+    "Port City Brewing": {
+      "brewery_name": "Port City Brewing",
+      "rating": 3.82,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "(703) 797-2739 |",
+      "website": "portcitybrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  Thorpe429 on 02-03-2011",
+      "address": "3950 Wheeler Avenue Alexandria , Virginia , 22304 United States"
+    },
+    "BadWolf Brewing Company (Big BadWolf)": {
+      "brewery_name": "BadWolf Brewing Company (Big BadWolf)",
+      "rating": 3.81,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "(703) 479-2305 |",
+      "website": "badwolfbrewingcompany.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  Dave_Treat on 03-29-2016",
+      "address": "8420 Kao Cir Manassas , Virginia , 20110 United States"
+    },
+    "Heroic Aleworks": {
+      "brewery_name": "Heroic Aleworks",
+      "rating": 3.81,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "(571) 398-6113 |",
+      "website": "heroicaleworks.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  Boone757 on 01-31-2017",
+      "address": "14910 Persistence Dr Woodbridge , Virginia , 22191 United States"
+    },
+    "Twinpanzee Brewing Company": {
+      "brewery_name": "Twinpanzee Brewing Company",
+      "rating": 3.81,
+      "types": [
+        "Brewery",
+        "Beer-to-go"
+      ],
+      "phone": "(703) 791-9363 |",
+      "website": "twinpanzee.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  skinsfan on 06-17-2015",
+      "address": "101-D Executive Dr Sterling , Virginia , 20166 United States"
+    },
+    "Crooked Run Central": {
+      "brewery_name": "Crooked Run Central",
+      "rating": 3.8,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "(571) 375-2652 |",
+      "website": "crookedrunbrewing.com",
+      "notes": "Beers listed at https://www.beeradvocate.com/beer/profile/32661/",
+      "author": "Added by  Boone757 on 02-21-2017",
+      "address": "22455 Davis Dr, Ste #120 Sterling , Virginia , 20164 United States"
+    },
+    "Black Hoof Brewing Co.": {
+      "brewery_name": "Black Hoof Brewing Co.",
+      "rating": 3.79,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "(571) 707-8014 |",
+      "website": "blackhoofbrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  bubseymour on 05-23-2017",
+      "address": "11 S King St Leesburg , Virginia , 20175 United States"
+    },
+    "Barnhouse Brewery": {
+      "brewery_name": "Barnhouse Brewery",
+      "rating": 3.78,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "(703) 675-8480 |",
+      "website": "barnhousebrewery.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  cjgiant on 04-29-2014",
+      "address": "43271 Spinks Ferry Rd Leesburg , Virginia , 20176 United States"
+    },
+    "Mad Fox Brewing Company": {
+      "brewery_name": "Mad Fox Brewing Company",
+      "rating": 3.78,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "(703) 942-6840 |",
+      "website": "madfoxbrewing.com",
+      "notes": "Growlers",
+      "author": "Added by  drabmuh on 07-12-2010",
+      "address": "444 West Broad Street Falls Church , Virginia , 22046 United States"
+    },
+    "Dog Money Restaurant & Brewery": {
+      "brewery_name": "Dog Money Restaurant & Brewery",
+      "rating": 3.76,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "(703) 687-3852 |",
+      "website": "dogmoneyllc.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  Boone757 on 09-06-2016",
+      "address": "50 Catoctin Cir NE, Ste 100 Leesburg , Virginia , 20176 United States"
+    },
+    "Old Ox Brewery": {
+      "brewery_name": "Old Ox Brewery",
+      "rating": 3.76,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "(703) 729-8375 |",
+      "website": "oldoxbrewery.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  NGC on 06-29-2014",
+      "address": "44652 Guilford Dr Ste 114 Ashburn , Virginia , 20147-6006 United States"
+    },
+    "Black Walnut Brewery": {
+      "brewery_name": "Black Walnut Brewery",
+      "rating": 3.74,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "(703) 771-9474 |",
+      "website": "blackwalnutbrewery.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  Boone757 on 07-10-2016",
+      "address": "210 S King St Leesburg , Virginia , 20175 United States"
+    },
+    "Crooked Run Brewing": {
+      "brewery_name": "Crooked Run Brewing",
+      "rating": 3.74,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "(703) 609-9241 |",
+      "website": "crookedrunbrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  blackie on 09-07-2013",
+      "address": "205 Harrison St SE Leesburg , Virginia , 20175-3702 United States"
+    },
+    "Ono Brewing Company": {
+      "brewery_name": "Ono Brewing Company",
+      "rating": 3.71,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "(571) 409-6662 |",
+      "website": "onobrewco.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  Boone757 on 09-01-2017",
+      "address": "4520 Daly Dr, Ste 102 Chantilly , Virginia , 20151 United States"
+    },
+    "Loudoun Brewing Co.": {
+      "brewery_name": "Loudoun Brewing Co.",
+      "rating": 3.73,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "(703) 350-8553 |",
+      "website": "loudounbrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  Boone757 on 10-10-2015",
+      "address": "310 E Market St Leesburg , Virginia , 20176-4101 United States"
+    },
+    "Sweetwater Tavern & Brewery": {
+      "brewery_name": "Sweetwater Tavern & Brewery",
+      "rating": 3.63,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "(703) 449-1108 |",
+      "website": "greatamericanrestaurants.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  Jason",
+      "address": "14250 Sweetwater Lane Centreville , Virginia , 20121 United States"
+    },
+    "Mustang Sally Brewing Company": {
+      "brewery_name": "Mustang Sally Brewing Company",
+      "rating": 3.71,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "(703) 378-7450 |",
+      "website": "msbrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  Mustang_Sally_Brewing on 04-28-2016",
+      "address": "14140 Parke Lawn Ct Chantilly , Virginia , 20151 United States"
+    },
+    "Lost Rhino Brewing Company": {
+      "brewery_name": "Lost Rhino Brewing Company",
+      "rating": 3.72,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "(571) 291-2083 |",
+      "website": "lostrhino.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  drabmuh on 06-21-2011",
+      "address": "21730 Red Rum Dr Ashburn , Virginia , 20147 United States"
+    },
+    "Growling Bear Brewing Company": {
+      "brewery_name": "Growling Bear Brewing Company",
+      "rating": 3.68,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "(571) 535-1965 |",
+      "website": "growlingbearbrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  Griffin2 on 08-27-2015",
+      "address": "14051 Crown Ct Woodbridge , Virginia , 22193-1458 United States"
+    },
+    "Gordon Biersch Brewery & Restaurant": {
+      "brewery_name": "Gordon Biersch Brewery & Restaurant",
+      "rating": 3.71,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "(703) 388-5454 |",
+      "website": "gordonbiersch.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  ManekiNeko on 10-03-2005",
+      "address": "7861 Tysons Corner Ctr McLean , Virginia , 22102-4515 United States"
+    },
+    "Rock Bottom Restaurant and Brewery": {
+      "brewery_name": "Rock Bottom Restaurant and Brewery",
+      "rating": 3.7,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "(703) 516-7688 |",
+      "website": "rockbottom.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  NeroFiddled",
+      "address": "4283 Wilson Blvd. (Ballston Common Mall) Arlington , Virginia , 22203 United States"
+    },
+    "Wild Run Brewery": {
+      "brewery_name": "Wild Run Brewery",
+      "rating": 3.64,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Homebrew"
+      ],
+      "phone": "(540) 659-3447 |",
+      "website": "wildrunbrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  Boone757 on 07-12-2014",
+      "address": "3071 Jefferson Davis Hwy Stafford , Virginia , 22554 United States"
+    },
+    "BadWolf Brewing Company (Little BadWolf)": {
+      "brewery_name": "BadWolf Brewing Company (Little BadWolf)",
+      "rating": 3.67,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "(571) 358-9774 |",
+      "website": "badwolfbrewingcompany.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  BadWolfBrewingC on 02-16-2013",
+      "address": "9776 Center St Manassas , Virginia , 20110-4128 United States"
+    },
+    "Lake Anne Brew House": {
+      "brewery_name": "Lake Anne Brew House",
+      "rating": 3.63,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "(571) 758-2739 |",
+      "website": "lakeannebrewhouse.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  Dave_Treat on 05-08-2016",
+      "address": "11424 Washington Plz W Reston , Virginia , 20190-4310 United States"
+    },
+    "Caboose Brewing Co.": {
+      "brewery_name": "Caboose Brewing Co.",
+      "rating": 3.65,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "(703) 865-8580 |",
+      "website": "caboosebrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  Cpmitchno1 on 05-23-2015",
+      "address": "520 Mill St NE Vienna , Virginia , 22180-4526 United States"
+    },
+    "Capitol City Brewing": {
+      "brewery_name": "Capitol City Brewing",
+      "rating": 3.65,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "(703) 578-3888 |",
+      "website": "capcitybrew.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  Todd",
+      "address": "2700 S. Quincy St. Arlington , Virginia , 22206 United States"
+    },
+    "Portner Brewhouse": {
+      "brewery_name": "Portner Brewhouse",
+      "rating": 3.56,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "(703) 646-0466 |",
+      "website": "portnerbrewhouse.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  Drknight on 03-03-2017",
+      "address": "5770 Dow Ave Alexandria , Virginia , 22304 United States"
+    },
+    "Heritage Brewing Co.": {
+      "brewery_name": "Heritage Brewing Co.",
+      "rating": 3.58,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "website": "heritagebrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  Chaney on 01-23-2014",
+      "address": "9436 Center Point Ln Manassas , Virginia , 20110-1810 United States |"
+    },
+    "Holy Brew Brewing Company": {
+      "brewery_name": "Holy Brew Brewing Company",
+      "rating": 3.4,
+      "types": [
+        "Brewery"
+      ],
+      "phone": "(703) 371-4161 |",
+      "website": "holybrew.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  tatoodkelt on 09-09-2009",
+      "address": "43547 Butler Place Leesburg , Virginia , 20176 United States Beers are brewed at / by another brewery."
+    },
+    "Honor Brewing Company": {
+      "brewery_name": "Honor Brewing Company",
+      "rating": 3.49,
+      "types": [
+        "Brewery"
+      ],
+      "phone": "(866) 920-9463 |",
+      "website": "honorbrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  dbrauneis on 02-25-2015",
+      "address": "14151 Newbrook Dr Ste 200 Chantilly , Virginia , 20151-2279 United States"
+    },
+    "New District Brewing Company": {
+      "brewery_name": "New District Brewing Company",
+      "rating": 3.21,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "(703) 888-5820 |",
+      "website": "newdistrictbrewing.com",
+      "notes": "No notes at this time.",
+      "author": "Added by  skinsfan on 01-11-2016",
+      "address": "2709 S Oakland St Arlington , Virginia , 22206-2309 United States"
+    }
+  }
+}
