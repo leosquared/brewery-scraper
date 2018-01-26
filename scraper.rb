@@ -37,9 +37,9 @@ def run_brewery(brewery_link, brewery_name)
 	info_box_text.each_with_index do |tag, i|
 		if ["PLACE INFO", "map"].include?(tag)
 		elsif /\([0-9]+\)/.match?(tag)
-			brewery_meta["phone"] = tag
+			brewery_meta["phone"] = tag.scan(/[0-9]/).to_a.join()
 		elsif /Added by.*/.match?(tag)
-			brewery_meta["author"] = tag
+			brewery_meta["author"] = /Added by *(?<name>[a-zA-Z]*) ?\w* ?(?<date>[0-9\-]+$)?/.match(tag).named_captures
 		elsif /.+(\.com|\.org|\.net)$/.match?(tag)
 			brewery_meta["website"] = tag
 		elsif tag == "Type:"
@@ -83,7 +83,7 @@ end
 if __FILE__ == $0
 	@domain_url = 'https://www.beeradvocate.com'
 	write_data = {}
-	city_links = get_cities().to_a[0..1].to_h ####### change this to run the whole dataset
+	city_links = get_cities().to_a[0..5].to_h ####### change this to run the whole dataset
 	city_links.each do |city, link|
 		## retry counts for each city
 		retries = 3
