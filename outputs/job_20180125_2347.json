@@ -1,0 +1,2394 @@
+{
+  "Albuquerque, NM": {
+    "La Cumbre Brewing Co.": {
+      "brewery_name": "La Cumbre Brewing Co.",
+      "rating": 3.99,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "5058720225",
+      "website": "lacumbrebrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "taxguyjase",
+        "date": "01-18-2011"
+      },
+      "address": "3313 Girard Blvd NE Albuquerque , New Mexico , 87107-1930 United States"
+    },
+    "Tractor Brewing Company": {
+      "brewery_name": "Tractor Brewing Company",
+      "rating": 3.91,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "5054335654",
+      "website": "getplowed.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "rheone",
+        "date": "12-14-2012"
+      },
+      "address": "118 Tulane Dr SE Albuquerque , New Mexico , 87106-1440 United States"
+    },
+    "Steel Bender Brewyard": {
+      "brewery_name": "Steel Bender Brewyard",
+      "rating": 3.89,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "5054333537",
+      "website": "steelbenderbrewyard.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "denver",
+        "date": null
+      },
+      "address": "8305 2nd St NW Albuquerque , New Mexico , 87114-1038 United States"
+    },
+    "Boxing Bear Brewing Co.": {
+      "brewery_name": "Boxing Bear Brewing Co.",
+      "rating": 3.84,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Homebrew",
+        "Beer-to-go"
+      ],
+      "phone": "5058972327",
+      "website": "boxingbearbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "ONovoMexicano",
+        "date": "08-03-2014"
+      },
+      "address": "10200 Corrales Rd NW Albuquerque , New Mexico , 87114-9268 United States"
+    },
+    "Marble Brewery": {
+      "brewery_name": "Marble Brewery",
+      "rating": 3.83,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "5052432739",
+      "website": "marblebrewery.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Wolfsdenbrew",
+        "date": "05-02-2008"
+      },
+      "address": "111 Marble Ave NW Albuquerque , New Mexico , 87102-2315 United States"
+    },
+    "B2B Bistronomy": {
+      "brewery_name": "B2B Bistronomy",
+      "rating": 3.75,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "5052622222",
+      "website": "bistronomyb2b.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "nathanmiller",
+        "date": "01-15-2015"
+      },
+      "address": "3118 Central Ave SE Albuquerque , New Mexico , 87106-2216 United States"
+    },
+    "Bosque Brewing Co.": {
+      "brewery_name": "Bosque Brewing Co.",
+      "rating": 3.77,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "5054333889",
+      "website": "bosquebrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "rheone",
+        "date": "12-14-2012"
+      },
+      "address": "8900 San Mateo Blvd NE Albuquerque , New Mexico , 87113-2459 United States"
+    },
+    "The Stumbling Steer": {
+      "brewery_name": "The Stumbling Steer",
+      "rating": 3.72,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "5057927805",
+      "website": "thestumblingsteer.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "M",
+        "date": null
+      },
+      "address": "3700 Ellison Rd NW Albuquerque , New Mexico , 87114-7009 United States"
+    },
+    "Ponderosa Brewing Company": {
+      "brewery_name": "Ponderosa Brewing Company",
+      "rating": 3.74,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "5056395941",
+      "website": "ponderosabrewing.net",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "ONovoMexicano",
+        "date": "09-19-2014"
+      },
+      "address": "1761 Bellamah Ave NW Albuquerque , New Mexico , 87104-2205 United States"
+    },
+    "Canteen Brewhouse": {
+      "brewery_name": "Canteen Brewhouse",
+      "rating": 3.72,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "5058812737",
+      "website": "ilvicino.com",
+      "notes": "This brewery provides beer for all Il Vicino locations in NM.",
+      "author": {
+        "name": "Jason",
+        "date": "05-30-2006"
+      },
+      "address": "2381 Aztec Rd NE Albuquerque , New Mexico , 87107-4207 United States"
+    },
+    "Rio Bravo Brewing": {
+      "brewery_name": "Rio Bravo Brewing",
+      "rating": 3.6,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "5059003909",
+      "website": "riobravobrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "ONovoMexicano",
+        "date": "08-24-2015"
+      },
+      "address": "1912 2nd St NW Albuquerque , New Mexico , 87102-1453 United States"
+    },
+    "Starr Brothers Brewing Company": {
+      "brewery_name": "Starr Brothers Brewing Company",
+      "rating": 3.51,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "5054922752",
+      "website": "starrbrothersbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "ONovoMexicano",
+        "date": "01-21-2016"
+      },
+      "address": "5700 San Antonio Dr NE Ste B1 Albuquerque , New Mexico , 87109-4128 United States"
+    },
+    "The 377 Brewery": {
+      "brewery_name": "The 377 Brewery",
+      "rating": 3.45,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5059340795",
+      "website": "the377.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Zonian",
+        "date": null
+      },
+      "address": "2027 Yale Blvd SE Albuquerque , New Mexico , 87106 United States"
+    },
+    "Red Door Brewing": {
+      "brewery_name": "Red Door Brewing",
+      "rating": 3.55,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "5056336675",
+      "website": "reddoorbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "ONovoMexicano",
+        "date": "09-19-2014"
+      },
+      "address": "1001 Candelaria Rd NE Albuquerque , New Mexico , 87107-2115 United States"
+    },
+    "Quarter Celtic Brewpub": {
+      "brewery_name": "Quarter Celtic Brewpub",
+      "rating": 3.52,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "5055031387",
+      "website": "quartercelticbrewpub.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "ONovoMexicano",
+        "date": "03-10-2016"
+      },
+      "address": "1100 San Mateo Blvd NE Ste 50 Albuquerque , New Mexico , 87110-6473 United States"
+    },
+    "Bow & Arrow Brewing": {
+      "brewery_name": "Bow & Arrow Brewing",
+      "rating": 3.52,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5052479800",
+      "website": "bowandarrowbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "ONovoMexicano",
+        "date": "02-14-2016"
+      },
+      "address": "602 McKnight Ave NW Albuquerque , New Mexico , 87102-1237 United States"
+    },
+    "Boese Brothers Brewery": {
+      "brewery_name": "Boese Brothers Brewery",
+      "rating": 3.46,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "5053827060",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "ONovoMexicano",
+        "date": "08-18-2015"
+      },
+      "address": "601 Gold Ave SW Albuquerque , New Mexico , 87102-3119 United States"
+    },
+    "Kelly's Brewpub": {
+      "brewery_name": "Kelly's Brewpub",
+      "rating": 3.5,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Homebrew",
+        "Beer-to-go"
+      ],
+      "phone": "5052622739",
+      "website": "kellysbrewpub.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "BeerGlassesCollector",
+        "date": null
+      },
+      "address": "3222 Central Avenue SE Albuquerque , New Mexico , 87106-1458 United States"
+    },
+    "Sidetrack Brewing Company": {
+      "brewery_name": "Sidetrack Brewing Company",
+      "rating": 3.4,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5052886468",
+      "website": "sidetrackbrewing.net",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "ONovoMexicano",
+        "date": "01-21-2016"
+      },
+      "address": "413 2nd St SW Albuquerque , New Mexico , 87102-3307 United States"
+    },
+    "Dialogue Brewing": {
+      "brewery_name": "Dialogue Brewing",
+      "rating": 3.44,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5055851501",
+      "website": "dialoguebrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "denver",
+        "date": null
+      },
+      "address": "1501 1st St NW Albuquerque , New Mexico , 87102 United States"
+    },
+    "Lizard Tail Brewing": {
+      "brewery_name": "Lizard Tail Brewing",
+      "rating": 3.31,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "5057171301",
+      "website": "lizardtailbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "ONovoMexicano",
+        "date": "09-19-2014"
+      },
+      "address": "9800 Montgomery Blvd NE Ste 7 Albuquerque , New Mexico , 87111-3560 United States"
+    },
+    "Nexus Brewery": {
+      "brewery_name": "Nexus Brewery",
+      "rating": 3.42,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "5052424100",
+      "website": "nexusbrewery.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "kcarson",
+        "date": null
+      },
+      "address": "4730 Pan American East Fwy NE Ste D Albuquerque , New Mexico , 87109-2204 United States"
+    }
+  },
+  "Alexandria, VA": {
+    "Brew Republic Bierwerks": {
+      "brewery_name": "Brew Republic Bierwerks",
+      "rating": 4.67,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "7035947950",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Boone",
+        "date": null
+      },
+      "address": "15201 Potomac Town Pl Woodbridge , Virginia , 22191 United States brewrepublic.beer"
+    },
+    "Aslin Beer Company": {
+      "brewery_name": "Aslin Beer Company",
+      "rating": 4.16,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "website": "aslinbeer.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Ngntjp",
+        "date": "09-29-2015"
+      },
+      "address": "257 Sunset Park Dr Herndon , Virginia , 20170-5220 United States |"
+    },
+    "Ocelot Brewing Company": {
+      "brewery_name": "Ocelot Brewing Company",
+      "rating": 4.0,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "7036652146",
+      "website": "ocelotbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "skinsfan",
+        "date": "04-10-2015"
+      },
+      "address": "23600 Overland Dr Ste 180 Sterling , Virginia , 20166-4441 United States"
+    },
+    "Ornery Beer Company Public House": {
+      "brewery_name": "Ornery Beer Company Public House",
+      "rating": 4.02,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "7034906400",
+      "website": "ornerybeer.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "skinsfan",
+        "date": "06-17-2015"
+      },
+      "address": "14389 Potomac Mills Rd Woodbridge , Virginia , 22192-6806 United States"
+    },
+    "Beltway Brewing Company": {
+      "brewery_name": "Beltway Brewing Company",
+      "rating": 3.99,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5719892739",
+      "website": "beltwaybrewco.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Drewtyson",
+        "date": "10-23-2013"
+      },
+      "address": "22620 Davis Dr Ste 110 Sterling , Virginia , 20164-4470 United States"
+    },
+    "Vanish Beer": {
+      "brewery_name": "Vanish Beer",
+      "rating": 3.91,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "website": "vanishbeer.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "skinsfan",
+        "date": "12-14-2015"
+      },
+      "address": "42264 Leelynn Farm Ln Leesburg , Virginia , 20176-5434 United States |"
+    },
+    "Solace Brewing": {
+      "brewery_name": "Solace Brewing",
+      "rating": 3.85,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "7033455630",
+      "website": "solacebrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Boone",
+        "date": null
+      },
+      "address": "42615 Trade West Dr, Ste 100 Dulles , Virginia , 20166 United States"
+    },
+    "2 Silos Brewing Co": {
+      "brewery_name": "2 Silos Brewing Co",
+      "rating": 3.85,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "7034202264",
+      "website": "2silosbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Boone",
+        "date": null
+      },
+      "address": "9925 Discovery Blvd Manassas , Virginia , 20109 United States"
+    },
+    "Port City Brewing": {
+      "brewery_name": "Port City Brewing",
+      "rating": 3.82,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "7037972739",
+      "website": "portcitybrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Thorpe",
+        "date": null
+      },
+      "address": "3950 Wheeler Avenue Alexandria , Virginia , 22304 United States"
+    },
+    "BadWolf Brewing Company (Big BadWolf)": {
+      "brewery_name": "BadWolf Brewing Company (Big BadWolf)",
+      "rating": 3.81,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "7034792305",
+      "website": "badwolfbrewingcompany.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Dave",
+        "date": null
+      },
+      "address": "8420 Kao Cir Manassas , Virginia , 20110 United States"
+    },
+    "Heroic Aleworks": {
+      "brewery_name": "Heroic Aleworks",
+      "rating": 3.81,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5713986113",
+      "website": "heroicaleworks.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Boone",
+        "date": null
+      },
+      "address": "14910 Persistence Dr Woodbridge , Virginia , 22191 United States"
+    },
+    "Twinpanzee Brewing Company": {
+      "brewery_name": "Twinpanzee Brewing Company",
+      "rating": 3.81,
+      "types": [
+        "Brewery",
+        "Beer-to-go"
+      ],
+      "phone": "7037919363",
+      "website": "twinpanzee.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "skinsfan",
+        "date": "06-17-2015"
+      },
+      "address": "101-D Executive Dr Sterling , Virginia , 20166 United States"
+    },
+    "Crooked Run Central": {
+      "brewery_name": "Crooked Run Central",
+      "rating": 3.8,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "5713752652",
+      "website": "crookedrunbrewing.com",
+      "notes": "Beers listed at https://www.beeradvocate.com/beer/profile/32661/",
+      "author": {
+        "name": "Boone",
+        "date": null
+      },
+      "address": "22455 Davis Dr, Ste #120 Sterling , Virginia , 20164 United States"
+    },
+    "Black Hoof Brewing Co.": {
+      "brewery_name": "Black Hoof Brewing Co.",
+      "rating": 3.79,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5717078014",
+      "website": "blackhoofbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "bubseymour",
+        "date": "05-23-2017"
+      },
+      "address": "11 S King St Leesburg , Virginia , 20175 United States"
+    },
+    "Barnhouse Brewery": {
+      "brewery_name": "Barnhouse Brewery",
+      "rating": 3.78,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "7036758480",
+      "website": "barnhousebrewery.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "cjgiant",
+        "date": "04-29-2014"
+      },
+      "address": "43271 Spinks Ferry Rd Leesburg , Virginia , 20176 United States"
+    },
+    "Mad Fox Brewing Company": {
+      "brewery_name": "Mad Fox Brewing Company",
+      "rating": 3.78,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "7039426840",
+      "website": "madfoxbrewing.com",
+      "notes": "Growlers",
+      "author": {
+        "name": "drabmuh",
+        "date": "07-12-2010"
+      },
+      "address": "444 West Broad Street Falls Church , Virginia , 22046 United States"
+    },
+    "Dog Money Restaurant & Brewery": {
+      "brewery_name": "Dog Money Restaurant & Brewery",
+      "rating": 3.76,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "7036873852",
+      "website": "dogmoneyllc.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Boone",
+        "date": null
+      },
+      "address": "50 Catoctin Cir NE, Ste 100 Leesburg , Virginia , 20176 United States"
+    },
+    "Old Ox Brewery": {
+      "brewery_name": "Old Ox Brewery",
+      "rating": 3.76,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "7037298375",
+      "website": "oldoxbrewery.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "NGC",
+        "date": "06-29-2014"
+      },
+      "address": "44652 Guilford Dr Ste 114 Ashburn , Virginia , 20147-6006 United States"
+    },
+    "Black Walnut Brewery": {
+      "brewery_name": "Black Walnut Brewery",
+      "rating": 3.74,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "7037719474",
+      "website": "blackwalnutbrewery.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Boone",
+        "date": null
+      },
+      "address": "210 S King St Leesburg , Virginia , 20175 United States"
+    },
+    "Crooked Run Brewing": {
+      "brewery_name": "Crooked Run Brewing",
+      "rating": 3.74,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "7036099241",
+      "website": "crookedrunbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "blackie",
+        "date": "09-07-2013"
+      },
+      "address": "205 Harrison St SE Leesburg , Virginia , 20175-3702 United States"
+    },
+    "Ono Brewing Company": {
+      "brewery_name": "Ono Brewing Company",
+      "rating": 3.71,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5714096662",
+      "website": "onobrewco.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Boone",
+        "date": null
+      },
+      "address": "4520 Daly Dr, Ste 102 Chantilly , Virginia , 20151 United States"
+    },
+    "Loudoun Brewing Co.": {
+      "brewery_name": "Loudoun Brewing Co.",
+      "rating": 3.73,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "7033508553",
+      "website": "loudounbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Boone",
+        "date": null
+      },
+      "address": "310 E Market St Leesburg , Virginia , 20176-4101 United States"
+    },
+    "Sweetwater Tavern & Brewery": {
+      "brewery_name": "Sweetwater Tavern & Brewery",
+      "rating": 3.63,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "7034491108",
+      "website": "greatamericanrestaurants.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Jason",
+        "date": null
+      },
+      "address": "14250 Sweetwater Lane Centreville , Virginia , 20121 United States"
+    },
+    "Mustang Sally Brewing Company": {
+      "brewery_name": "Mustang Sally Brewing Company",
+      "rating": 3.71,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "7033787450",
+      "website": "msbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Mustang",
+        "date": null
+      },
+      "address": "14140 Parke Lawn Ct Chantilly , Virginia , 20151 United States"
+    },
+    "Lost Rhino Brewing Company": {
+      "brewery_name": "Lost Rhino Brewing Company",
+      "rating": 3.72,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "5712912083",
+      "website": "lostrhino.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "drabmuh",
+        "date": "06-21-2011"
+      },
+      "address": "21730 Red Rum Dr Ashburn , Virginia , 20147 United States"
+    },
+    "Growling Bear Brewing Company": {
+      "brewery_name": "Growling Bear Brewing Company",
+      "rating": 3.68,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "5715351965",
+      "website": "growlingbearbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Griffin",
+        "date": null
+      },
+      "address": "14051 Crown Ct Woodbridge , Virginia , 22193-1458 United States"
+    },
+    "Gordon Biersch Brewery & Restaurant": {
+      "brewery_name": "Gordon Biersch Brewery & Restaurant",
+      "rating": 3.71,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "7033885454",
+      "website": "gordonbiersch.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "ManekiNeko",
+        "date": "10-03-2005"
+      },
+      "address": "7861 Tysons Corner Ctr McLean , Virginia , 22102-4515 United States"
+    },
+    "Rock Bottom Restaurant and Brewery": {
+      "brewery_name": "Rock Bottom Restaurant and Brewery",
+      "rating": 3.7,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "7035167688",
+      "website": "rockbottom.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "NeroFiddled",
+        "date": null
+      },
+      "address": "4283 Wilson Blvd. (Ballston Common Mall) Arlington , Virginia , 22203 United States"
+    },
+    "Wild Run Brewery": {
+      "brewery_name": "Wild Run Brewery",
+      "rating": 3.64,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Homebrew"
+      ],
+      "phone": "5406593447",
+      "website": "wildrunbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Boone",
+        "date": null
+      },
+      "address": "3071 Jefferson Davis Hwy Stafford , Virginia , 22554 United States"
+    },
+    "BadWolf Brewing Company (Little BadWolf)": {
+      "brewery_name": "BadWolf Brewing Company (Little BadWolf)",
+      "rating": 3.67,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "5713589774",
+      "website": "badwolfbrewingcompany.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "BadWolfBrewingC",
+        "date": "02-16-2013"
+      },
+      "address": "9776 Center St Manassas , Virginia , 20110-4128 United States"
+    },
+    "Lake Anne Brew House": {
+      "brewery_name": "Lake Anne Brew House",
+      "rating": 3.63,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "5717582739",
+      "website": "lakeannebrewhouse.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Dave",
+        "date": null
+      },
+      "address": "11424 Washington Plz W Reston , Virginia , 20190-4310 United States"
+    },
+    "Caboose Brewing Co.": {
+      "brewery_name": "Caboose Brewing Co.",
+      "rating": 3.65,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "7038658580",
+      "website": "caboosebrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Cpmitchno",
+        "date": null
+      },
+      "address": "520 Mill St NE Vienna , Virginia , 22180-4526 United States"
+    },
+    "Capitol City Brewing": {
+      "brewery_name": "Capitol City Brewing",
+      "rating": 3.65,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "7035783888",
+      "website": "capcitybrew.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Todd",
+        "date": null
+      },
+      "address": "2700 S. Quincy St. Arlington , Virginia , 22206 United States"
+    },
+    "Portner Brewhouse": {
+      "brewery_name": "Portner Brewhouse",
+      "rating": 3.56,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "7036460466",
+      "website": "portnerbrewhouse.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Drknight",
+        "date": "03-03-2017"
+      },
+      "address": "5770 Dow Ave Alexandria , Virginia , 22304 United States"
+    },
+    "Heritage Brewing Co.": {
+      "brewery_name": "Heritage Brewing Co.",
+      "rating": 3.58,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "website": "heritagebrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Chaney",
+        "date": "01-23-2014"
+      },
+      "address": "9436 Center Point Ln Manassas , Virginia , 20110-1810 United States |"
+    },
+    "Holy Brew Brewing Company": {
+      "brewery_name": "Holy Brew Brewing Company",
+      "rating": 3.4,
+      "types": [
+        "Brewery"
+      ],
+      "phone": "7033714161",
+      "website": "holybrew.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "tatoodkelt",
+        "date": "09-09-2009"
+      },
+      "address": "43547 Butler Place Leesburg , Virginia , 20176 United States Beers are brewed at / by another brewery."
+    },
+    "Honor Brewing Company": {
+      "brewery_name": "Honor Brewing Company",
+      "rating": 3.49,
+      "types": [
+        "Brewery"
+      ],
+      "phone": "8669209463",
+      "website": "honorbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "dbrauneis",
+        "date": "02-25-2015"
+      },
+      "address": "14151 Newbrook Dr Ste 200 Chantilly , Virginia , 20151-2279 United States"
+    },
+    "New District Brewing Company": {
+      "brewery_name": "New District Brewing Company",
+      "rating": 3.21,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "7038885820",
+      "website": "newdistrictbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "skinsfan",
+        "date": "01-11-2016"
+      },
+      "address": "2709 S Oakland St Arlington , Virginia , 22206-2309 United States"
+    }
+  },
+  "Anchorage, AK": {
+    "Anchorage Brewing Company": {
+      "brewery_name": "Anchorage Brewing Company",
+      "rating": 4.29,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "9073605104",
+      "website": "anchoragebrewingcompany.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "juzy",
+        "date": "02-15-2011"
+      },
+      "address": "148 W 91st Ave Anchorage , Alaska , 99515-1901 United States"
+    },
+    "Glacier Brewhouse": {
+      "brewery_name": "Glacier Brewhouse",
+      "rating": 3.95,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "9072742739",
+      "website": "glacierbrewhouse.com",
+      "notes": "Brewpub that opened May of 1996.",
+      "author": {
+        "name": "BeerAdvocate",
+        "date": null
+      },
+      "address": "737 W 5th Ave Ste 110 Anchorage , Alaska , 99501-2129 United States"
+    },
+    "Midnight Sun Brewing Co.": {
+      "brewery_name": "Midnight Sun Brewing Co.",
+      "rating": 3.83,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "9073441179",
+      "website": "midnightsunbrewing.com",
+      "notes": "To-Go Bar on ground level.  The kitchen in The Loft is now open, 11am - 8pm every day (Alaska state laws require breweries to be closed by 8pm). Their menu can be perused at their website. Remember, they are remaining licensed as a brewery only, not a brewpub, so per the State of Alaska, there is a 36 oz. on-site consumption limit per person, per day in the Loft.",
+      "author": {
+        "name": "BeerAdvocate",
+        "date": null
+      },
+      "address": "8111 Dimond Hook Dr Anchorage , Alaska , 99507-3144 United States"
+    },
+    "King Street Brewing Company": {
+      "brewery_name": "King Street Brewing Company",
+      "rating": 3.84,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "9073365464",
+      "website": "kingstreetbrewing.com",
+      "notes": "King Street Brewing was founded in 2010 and has been bringing fine craft ales and lagers to the Alaska marketplace since August 2011. Six year round offerings (Czech Pilsner, IPA, Blonde, Amber, Irish Stout, and Bavarian Hefeweizen) are complimented with multiple seasonal offerings and barrel aged selections. A cozy 15 seat tasting room allows you to sample flights, drink pints and take growlers, kegs, cans and bottles to go. No kitchen, but you’re welcome to order in or bring your own! Their beer can also be found in pubs, restaurants, and specialty liquor stores from Kenai to Fairbanks.",
+      "author": {
+        "name": "HeadwatersFinest",
+        "date": "11-15-2011"
+      },
+      "address": "7924 King St Anchorage , Alaska , 99518-3058 United States"
+    },
+    "Broken Tooth Brewing": {
+      "brewery_name": "Broken Tooth Brewing",
+      "rating": 3.77,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "9072784999",
+      "website": "brokentoothbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "BeerAdvocate",
+        "date": null
+      },
+      "address": "2021 Spar Ave Anchorage , Alaska , 99501-1815 United States"
+    },
+    "Resolution Brewing Company": {
+      "brewery_name": "Resolution Brewing Company",
+      "rating": 3.66,
+      "types": [
+        "Brewery",
+        "Beer-to-go"
+      ],
+      "phone": "9077207964",
+      "website": "resolutionbeer.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "itracy",
+        "date": null
+      },
+      "address": "3024 Mountain View Dr Anchorage , Alaska , 99501-3141 United States"
+    }
+  },
+  "Asheville, NC": {
+    "Burial Beer Co.": {
+      "brewery_name": "Burial Beer Co.",
+      "rating": 4.0,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "8284752739",
+      "website": "burialbeer.com",
+      "notes": "MON: 4-10pm",
+      "author": {
+        "name": "BurialBeerCo",
+        "date": "05-28-2013"
+      },
+      "address": "40 Collier Ave Asheville , North Carolina , 28801-4024 United States TUE: 4-10pm WED: 4-10pm THU: 4-10pm FRI: 2-10pm SAT: 2-10pm SUN: 12-8pm"
+    },
+    "Hillman Beer": {
+      "brewery_name": "Hillman Beer",
+      "rating": 4.11,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "8285051312",
+      "website": "hillmanbeer.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Bnyoung",
+        "date": "05-23-2017"
+      },
+      "address": "25 Sweeten Creek Rd Asheville , North Carolina , 28803 United States"
+    },
+    "Wicked Weed Brewing": {
+      "brewery_name": "Wicked Weed Brewing",
+      "rating": 3.98,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "8285759599",
+      "website": "wickedweedbrewing.com",
+      "notes": "Wicked Weed Brewing announced on May 3, 2017 that it has been acquired by ABInbev as part of its High End unit.",
+      "author": {
+        "name": "mcrowther",
+        "date": "12-30-2012"
+      },
+      "address": "91 Biltmore St Asheville , North Carolina , 28801-3626 United States"
+    },
+    "Highland Brewing": {
+      "brewery_name": "Highland Brewing",
+      "rating": 3.94,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "8282993370",
+      "website": "highlandbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "BeerAdvocate",
+        "date": null
+      },
+      "address": "12 Old Charlotte Hwy., Suite 200 Asheville , North Carolina , 28803 United States"
+    },
+    "Hi-Wire Brewing": {
+      "brewery_name": "Hi-Wire Brewing",
+      "rating": 3.91,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "8285759675",
+      "website": "hiwirebrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "BeerZack",
+        "date": "05-29-2013"
+      },
+      "address": "197 Hilliard Ave Asheville , North Carolina , 28801-3616 United States"
+    },
+    "Green Man Brewery": {
+      "brewery_name": "Green Man Brewery",
+      "rating": 3.9,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "8282525502",
+      "website": "greenmanbrewery.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "GCBrewingCo",
+        "date": "06-20-2005"
+      },
+      "address": "23 Buxton Avenue Asheville , North Carolina , 28801 United States"
+    },
+    "Bhramari Brewhouse": {
+      "brewery_name": "Bhramari Brewhouse",
+      "rating": 3.89,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "8282147981",
+      "website": "bhramaribrewhouse.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "qcbrewer",
+        "date": "03-21-2016"
+      },
+      "address": "101 S Lexington Ave Asheville , North Carolina , 28801-3309 United States"
+    },
+    "Sweeten Creek Brewing": {
+      "brewery_name": "Sweeten Creek Brewing",
+      "rating": 3.86,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "8285752785",
+      "website": "sweetencreekbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "jaydoc",
+        "date": "01-05-2016"
+      },
+      "address": "1127 Sweeten Creek Rd Asheville , North Carolina , 28803-1728 United States"
+    },
+    "UpCountry Brewing Co.": {
+      "brewery_name": "UpCountry Brewing Co.",
+      "rating": 3.8,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "8285752400",
+      "website": "upcountrybrewing.com",
+      "notes": "Formerly Altamont Brewing Company",
+      "author": {
+        "name": "thagr",
+        "date": null
+      },
+      "address": "1042 Haywood Rd Asheville , North Carolina , 28806 United States"
+    },
+    "Wedge Brewing Company": {
+      "brewery_name": "Wedge Brewing Company",
+      "rating": 3.79,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "8285052792",
+      "website": "wedgebrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "blackie",
+        "date": "06-28-2008"
+      },
+      "address": "125B Roberts Street Asheville , North Carolina , 28801 United States"
+    },
+    "Archetype Brewing": {
+      "brewery_name": "Archetype Brewing",
+      "rating": 3.7,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "8285054177",
+      "website": "archetypebrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "TheBulldog",
+        "date": "10-11-2016"
+      },
+      "address": "265 Haywood Rd Asheville , North Carolina , 28806 United States"
+    },
+    "OysterHouse Brewing Company": {
+      "brewery_name": "OysterHouse Brewing Company",
+      "rating": 3.71,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "8285759370",
+      "website": "oysterhousebeers.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "MasterSki",
+        "date": "07-28-2013"
+      },
+      "address": "625 Haywood Rd Asheville , North Carolina , 28806-3255 United States"
+    },
+    "French Broad Brewing Co.": {
+      "brewery_name": "French Broad Brewing Co.",
+      "rating": 3.71,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "8282770222",
+      "website": "frenchbroadbrewery.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "aracauna",
+        "date": null
+      },
+      "address": "101-D Fairview Road Asheville , North Carolina , 28803 United States"
+    },
+    "Asheville Pizza and Brewing Co.": {
+      "brewery_name": "Asheville Pizza and Brewing Co.",
+      "rating": 3.67,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "8282541281",
+      "website": "ashevillepizza.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Jason",
+        "date": null
+      },
+      "address": "675 Merrimon Avenue Asheville , North Carolina , 28804 United States"
+    },
+    "Twin Leaf Brewery": {
+      "brewery_name": "Twin Leaf Brewery",
+      "rating": 3.67,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "8287745000",
+      "website": "twinleafbrewery.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "blackie",
+        "date": "03-17-2014"
+      },
+      "address": "144 Coxe Ave Asheville , North Carolina , 28801-4026 United States"
+    },
+    "Asheville Brewing Company": {
+      "brewery_name": "Asheville Brewing Company",
+      "rating": 3.66,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "8282554077",
+      "website": "ashevillebrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "GCBrewingCo",
+        "date": "06-20-2005"
+      },
+      "address": "73 Coxe Avenue Asheville , North Carolina , 28801 United States"
+    },
+    "One World Brewing": {
+      "brewery_name": "One World Brewing",
+      "rating": 3.64,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5089823757",
+      "website": "oneworldbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "dbrauneis",
+        "date": "05-24-2014"
+      },
+      "address": "10 Patton Ave Asheville , North Carolina , 28801 United States"
+    },
+    "The LAB (Lexington Avenue Brewery)": {
+      "brewery_name": "The LAB (Lexington Avenue Brewery)",
+      "rating": 3.53,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "8282520212",
+      "website": "lexavebrew.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "mikesgroove",
+        "date": "01-11-2010"
+      },
+      "address": "39 N Lexington Ave Asheville , North Carolina , 28801 United States"
+    },
+    "Cedric's Tavern / Biltmore Brewing Co.": {
+      "brewery_name": "Cedric's Tavern / Biltmore Brewing Co.",
+      "rating": 3.49,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "8004113812",
+      "website": "biltmore.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "tdm",
+        "date": null
+      },
+      "address": "1 Lodge St Asheville , North Carolina , 28803-2662 United States Beers are brewed at / by another brewery."
+    }
+  },
+  "Atlanta, GA": {
+    "Scofflaw Brewing Company": {
+      "brewery_name": "Scofflaw Brewing Company",
+      "rating": 4.18,
+      "types": [
+        "Brewery"
+      ],
+      "website": "scofflawbeer.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "thatoneguymike",
+        "date": "08-28-2016"
+      },
+      "address": "1738 MacArthur Blvd NW Atlanta , Georgia , 30318 United States |"
+    },
+    "Monday Night Brewing": {
+      "brewery_name": "Monday Night Brewing",
+      "rating": 4.07,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "4043527703",
+      "website": "mondaynightbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Georgiabeer",
+        "date": "07-26-2011"
+      },
+      "address": "670 Trabert Ave NW Atlanta , Georgia , 30318-4230 United States"
+    },
+    "Three Taverns Craft Brewery": {
+      "brewery_name": "Three Taverns Craft Brewery",
+      "rating": 4.06,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "4046003355",
+      "website": "threetavernsbrewery.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Zach",
+        "date": null
+      },
+      "address": "121 New St Decatur , Georgia , 30030-4131 United States"
+    },
+    "Orpheus Brewing": {
+      "brewery_name": "Orpheus Brewing",
+      "rating": 4.03,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "website": "orpheusbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Zach",
+        "date": null
+      },
+      "address": "1440 Dutch Valley PL, NE Atlanta , Georgia , 30324 United States |"
+    },
+    "Wild Heaven Beer": {
+      "brewery_name": "Wild Heaven Beer",
+      "rating": 3.97,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "4049978589",
+      "website": "wildheavencraftbeers.com",
+      "notes": "Formerly Wild Heaven Craft Beers",
+      "author": {
+        "name": "obireidkenobi",
+        "date": "09-13-2010"
+      },
+      "address": "135B Maple St Decatur , Georgia , 30030 United States"
+    },
+    "The Wrecking Bar Brewpub": {
+      "brewery_name": "The Wrecking Bar Brewpub",
+      "rating": 3.95,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "4042212600",
+      "website": "wreckingbarbrewpub.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "ATLbeerDog",
+        "date": "06-17-2011"
+      },
+      "address": "292 Moreland Ave NE Atlanta , Georgia , 30307 United States"
+    },
+    "Arches Brewing": {
+      "brewery_name": "Arches Brewing",
+      "rating": 4.16,
+      "types": [
+        "Brewery"
+      ],
+      "phone": "6786532739",
+      "website": "archesbrewing.com",
+      "notes": "Public Tasting Hours",
+      "author": {
+        "name": "thatoneguymike",
+        "date": "04-11-2016"
+      },
+      "address": "3361 Dogwood Dr Hapeville , Georgia , 30354 United States Thursday: 4:30-7:30PM Saturday: 3-6PM Bavarian influenced Tasting Room with reclaimed wood, steel, brick features. Huge outdoor Biergarten available year-round. Outdoor bar, picnic tables, cornhole, jenga, and fire pits."
+    },
+    "Five Seasons Prado": {
+      "brewery_name": "Five Seasons Prado",
+      "rating": 3.94,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "4042555911",
+      "website": "5seasonsbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "BeerAdvocate",
+        "date": null
+      },
+      "address": "5600 Roswell Road Atlanta , Georgia , 30342 United States"
+    },
+    "5 Seasons Westside": {
+      "brewery_name": "5 Seasons Westside",
+      "rating": 3.87,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "7705215551",
+      "website": "5seasonsbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "gabeerfan",
+        "date": "05-06-2009"
+      },
+      "address": "1000 Marietta St. Atlanta , Georgia , 30318 United States"
+    },
+    "Second Self Beer Company": {
+      "brewery_name": "Second Self Beer Company",
+      "rating": 3.86,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "6789168035",
+      "website": "secondselfbeer.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "jhartley",
+        "date": "07-29-2014"
+      },
+      "address": "1311 Logan Cir NW Atlanta , Georgia , 30318 United States"
+    },
+    "Torched Hop Brewing Company": {
+      "brewery_name": "Torched Hop Brewing Company",
+      "rating": 3.95,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "website": "torchedhopbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "thatoneguymike",
+        "date": "02-12-2016"
+      },
+      "address": "249 Ponce de Leon Ave NE Atlanta , Georgia , 30308-1937 United States |"
+    },
+    "SweetWater Brewing Company": {
+      "brewery_name": "SweetWater Brewing Company",
+      "rating": 3.81,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "404691",
+      "website": "sweetwaterbrew.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "BeerAdvocate",
+        "date": null
+      },
+      "address": "195 Ottley Drive NE Atlanta , Georgia , 30324 United States"
+    },
+    "Red Brick Brewing Company": {
+      "brewery_name": "Red Brick Brewing Company",
+      "rating": 3.74,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "4043555558",
+      "website": "atlantabrewing.com",
+      "notes": "Formerly Atlanta Brewing Company. Now Dba as Red Brick Brewing Company. The brewery relabeled in spring 2010 to match the Red Brick name that had always been on their beers and avoid confusion in new markets.",
+      "author": {
+        "name": "BeerAdvocate",
+        "date": null
+      },
+      "address": "2323 DeFoor Hills Rd. Atlanta , Georgia , 30318 United States"
+    },
+    "BlueTarp Brewing Co.": {
+      "brewery_name": "BlueTarp Brewing Co.",
+      "rating": 3.75,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "website": "bluetarpbrew.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "DoubleSimcoe",
+        "date": "02-22-2013"
+      },
+      "address": "731 E College Ave Decatur , Georgia , 30030-5365 United States |"
+    },
+    "Twain's Billiards and Tap": {
+      "brewery_name": "Twain's Billiards and Tap",
+      "rating": 3.77,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "4043730063",
+      "website": "twains.net",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "BeerAdvocate",
+        "date": null
+      },
+      "address": "211 E Trinity Pl Decatur , Georgia , 30030 United States"
+    },
+    "Gordon Biersch Brewery & Restaurant - Buckhead": {
+      "brewery_name": "Gordon Biersch Brewery & Restaurant - Buckhead",
+      "rating": 3.71,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "4042649109",
+      "website": "gordonbiersch.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "glid",
+        "date": null
+      },
+      "address": "3242 Peachtree Rd NE Atlanta , Georgia , 30305-2425 United States"
+    },
+    "Gordon Biersch Brewery & Restaurant - Midtown": {
+      "brewery_name": "Gordon Biersch Brewery & Restaurant - Midtown",
+      "rating": 3.71,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "4048700805",
+      "website": "gordonbiersch.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "BeerAdvocate",
+        "date": null
+      },
+      "address": "848 Peachtree St NE Atlanta , Georgia , 30308-1202 United States"
+    },
+    "Eventide Brewing": {
+      "brewery_name": "Eventide Brewing",
+      "rating": 3.71,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "4049074543",
+      "website": "eventidebrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Zach",
+        "date": null
+      },
+      "address": "1015 Grant St SE Atlanta , Georgia , 30315-2014 United States"
+    },
+    "Max Lager's Wood-Fired Grill & Brewery": {
+      "brewery_name": "Max Lager's Wood-Fired Grill & Brewery",
+      "rating": 3.68,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "4045254400",
+      "website": "maxlagers.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "BeerAdvocate",
+        "date": null
+      },
+      "address": "320 Peachtree St Atlanta , Georgia , 30308 United States"
+    },
+    "Slice & Pint": {
+      "brewery_name": "Slice & Pint",
+      "rating": 3.92,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "4048833406",
+      "website": "sliceandpint.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "ChainGangGuy",
+        "date": "05-28-2014"
+      },
+      "address": "1593 N Decatur Rd Atlanta , Georgia , 30307 United States"
+    },
+    "Pontoon Brewing Company": {
+      "brewery_name": "Pontoon Brewing Company",
+      "rating": 3.72,
+      "types": [
+        "Brewery"
+      ],
+      "website": "pontoonbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "thatoneguymike",
+        "date": "12-12-2014"
+      },
+      "address": "Atlanta , Georgia , United States | Beers are brewed at / by another brewery."
+    },
+    "O'Dempsey's": {
+      "brewery_name": "O'Dempsey's",
+      "rating": 3.61,
+      "types": [
+        "Brewery"
+      ],
+      "website": "odempseys.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "superdedooperboy",
+        "date": "04-10-2010"
+      },
+      "address": "205 Grosvenor Place, Nw Atlanta , Georgia United States | Beers are brewed at / by another brewery."
+    },
+    "Park Tavern": {
+      "brewery_name": "Park Tavern",
+      "rating": 3.23,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "4042490001",
+      "website": "parktavern.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "BeerAdvocate",
+        "date": null
+      },
+      "address": "500 10th St. Atlanta , Georgia , 30309 United States"
+    }
+  },
+  "Austin, TX": {
+    "Jester King Brewery": {
+      "brewery_name": "Jester King Brewery",
+      "rating": 4.09,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Beer-to-go"
+      ],
+      "phone": "5125375100",
+      "website": "jesterkingbrewery.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "wagenvolks",
+        "date": "10-13-2010"
+      },
+      "address": "13005 Fitzhugh Road, Bld. B Austin , Texas , 78736 United States"
+    },
+    "Oddwood Ales": {
+      "brewery_name": "Oddwood Ales",
+      "rating": 3.96,
+      "types": [
+        "Brewery"
+      ],
+      "website": "oddwoodales.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "bccocx",
+        "date": "10-16-2014"
+      },
+      "address": "3108 Manor Rd Austin , Texas , 78723-5719 United States | Beers are brewed at / by another brewery."
+    },
+    "St. Elmo Brewing Co.": {
+      "brewery_name": "St. Elmo Brewing Co.",
+      "rating": 3.94,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "7373001965",
+      "website": "stelmobrewing.com",
+      "notes": "Our bar, beer hall, and beer garden is a great place to spend your day. We’re open for lunch and dinner, six days a week. Great beer isn’t the only option. We also have pour-over coffee, housemade mineral water, and soda. And food! Our resident food truck serves amazing Asian drinking food: we’re talking sticky ribs, a Japanese Fried Chicken (JFC) sandwich, and truffle tater tots.",
+      "author": {
+        "name": "gilgar",
+        "date": "11-13-2016"
+      },
+      "address": "440 E St Elmo Rd, Ste G-2 Austin , Texas , 78745 United States"
+    },
+    "(512) Brewing Company": {
+      "brewery_name": "(512) Brewing Company",
+      "rating": 3.88,
+      "types": [
+        "Brewery"
+      ],
+      "phone": "5127072337",
+      "website": "512brewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "midaszero",
+        "date": "07-03-2008"
+      },
+      "address": "407 Radam Ln Ste F200 Austin , Texas , 78745-1197 United States"
+    },
+    "Pinthouse Pizza - South Austin": {
+      "brewery_name": "Pinthouse Pizza - South Austin",
+      "rating": 3.89,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "5125025808",
+      "website": "pinthousepizza.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Gagnonsux",
+        "date": "11-06-2015"
+      },
+      "address": "4236 S Lamar Blvd Austin , Texas , 78704-7905 United States"
+    },
+    "Draught House Pub & Brewery": {
+      "brewery_name": "Draught House Pub & Brewery",
+      "rating": 3.87,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "5124526258",
+      "website": "draughthouse.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Pegasus",
+        "date": null
+      },
+      "address": "4112 Medical Parkway Austin , Texas , 78741 United States"
+    },
+    "Pinthouse Pizza Craft Brewpub": {
+      "brewery_name": "Pinthouse Pizza Craft Brewpub",
+      "rating": 3.81,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "5124369605",
+      "website": "pinthousepizza.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "ThirdEyePA",
+        "date": "03-04-2013"
+      },
+      "address": "4729 Burnet Rd Austin , Texas , 78756-2826 United States"
+    },
+    "Austin Beerworks": {
+      "brewery_name": "Austin Beerworks",
+      "rating": 3.8,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5128212494",
+      "website": "austinbeerworks.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "UTCengOwl",
+        "date": "05-24-2011"
+      },
+      "address": "3009 Industrial Terrace, Suite 150 Austin , Texas , 78758 United States"
+    },
+    "Celis Brewery": {
+      "brewery_name": "Celis Brewery",
+      "rating": 3.84,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5125242377",
+      "website": "celisbeers.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Junichi",
+        "date": "06-27-2017"
+      },
+      "address": "10001 Metric Blvd Austin , Texas , 78758 United States"
+    },
+    "Adelbert's Brewery": {
+      "brewery_name": "Adelbert's Brewery",
+      "rating": 3.74,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5126621462",
+      "website": "adelbertsbeer.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "MattCinatl",
+        "date": "01-02-2012"
+      },
+      "address": "2314 Rutland Drive Suite #100 Austin , Texas , 78758 United States"
+    },
+    "Oasis Texas Brewing Company": {
+      "brewery_name": "Oasis Texas Brewing Company",
+      "rating": 3.7,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5122849407",
+      "website": "otxbc.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "JDV",
+        "date": "06-02-2014"
+      },
+      "address": "6550 Comanche Trail Austin , Texas , 78732 United States"
+    },
+    "Hi Sign Brewing": {
+      "brewery_name": "Hi Sign Brewing",
+      "rating": 3.74,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5123825264",
+      "website": "hisignbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "HiSign",
+        "date": "02-14-2017"
+      },
+      "address": "1201 Bastrop Hwy Austin , Texas , 78742 United States"
+    },
+    "Lazarus Brewing Company": {
+      "brewery_name": "Lazarus Brewing Company",
+      "rating": 3.72,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "5123947620",
+      "website": "lazarusbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "The",
+        "date": null
+      },
+      "address": "1902 E 6th St Austin , Texas , 78702 United States"
+    },
+    "Blue Owl Brewing": {
+      "brewery_name": "Blue Owl Brewing",
+      "rating": 3.68,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5125931262",
+      "website": "blueowlbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Suzy",
+        "date": null
+      },
+      "address": "2400 East Cesar Chavez St #300 Austin , Texas , 78702 United States"
+    },
+    "Last Stand Brewing Company": {
+      "brewery_name": "Last Stand Brewing Company",
+      "rating": 3.69,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5128279909",
+      "website": "laststandbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "JohnBender",
+        "date": "02-28-2015"
+      },
+      "address": "12345 Pauls Valley Rd Ste I Austin , Texas , 78737-9615 United States"
+    },
+    "North by Northwest Restaurant & Brewery": {
+      "brewery_name": "North by Northwest Restaurant & Brewery",
+      "rating": 3.67,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "5124676969",
+      "website": "nxnwbrew.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "ie",
+        "date": null
+      },
+      "address": "10010 Capital Of TX Hwy N Austin , Texas , 78759 United States"
+    },
+    "Hops and Grain Brewery": {
+      "brewery_name": "Hops and Grain Brewery",
+      "rating": 3.66,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5129142467",
+      "website": "hopsandgrain.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "wagenvolks",
+        "date": "12-02-2011"
+      },
+      "address": "507 Calles St Ste 101 Austin , Texas , 78702-3909 United States"
+    },
+    "Black Star Co-op Pub & Brewery": {
+      "brewery_name": "Black Star Co-op Pub & Brewery",
+      "rating": 3.66,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "5124522337",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "MEsquandoles",
+        "date": "12-09-2010"
+      },
+      "address": "7020 Easy Wind Drive, Suite 100 Austin , Texas , 78752 United States blackstar.coop"
+    },
+    "Friends & Allies Brewing": {
+      "brewery_name": "Friends & Allies Brewing",
+      "rating": 3.66,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "mig",
+        "date": null
+      },
+      "address": "979 Springdale Rd Austin , Texas , 78702 United States | friendsandallies.beer"
+    },
+    "North by Northwest Restaurant & Brewery - South": {
+      "brewery_name": "North by Northwest Restaurant & Brewery - South",
+      "rating": 3.79,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "5123016969",
+      "website": "nxnwbrew.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "zonker",
+        "date": null
+      },
+      "address": "5701 W Slaughter Ln Austin , Texas , 78749-6527 United States"
+    },
+    "Zilker Brewing Co.": {
+      "brewery_name": "Zilker Brewing Co.",
+      "rating": 3.63,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5127654946",
+      "website": "zilkerbeer.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Gagnonsux",
+        "date": "04-20-2015"
+      },
+      "address": "1701 E 6th St Austin , Texas , 78702-2701 United States"
+    },
+    "Austin Beer Garden Brewing Co.": {
+      "brewery_name": "Austin Beer Garden Brewing Co.",
+      "rating": 3.63,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery"
+      ],
+      "phone": "5122982242",
+      "website": "theabgb.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Beer",
+        "date": null
+      },
+      "address": "1305 W Oltorf St Austin , Texas , 78704-5350 United States"
+    },
+    "Kamala Brewing / Whip In": {
+      "brewery_name": "Kamala Brewing / Whip In",
+      "rating": 3.63,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "5124425337",
+      "website": "whipin.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "BeerAdvocate",
+        "date": null
+      },
+      "address": "1950 S. Interstate 35 Austin , Texas , 78704 United States"
+    },
+    "Southern Heights Brewing Company": {
+      "brewery_name": "Southern Heights Brewing Company",
+      "rating": 3.71,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5126506901",
+      "website": "southernheightsbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "greenspointexas",
+        "date": "11-11-2017"
+      },
+      "address": "6014 Techni Center Dr, Ste 2-101 Austin , Texas , 78721 United States"
+    },
+    "4th Tap Brewing Co-op": {
+      "brewery_name": "4th Tap Brewing Co-op",
+      "rating": 3.59,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5129049817",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Jame",
+        "date": null
+      },
+      "address": "10615 Metric Blvd Austin , Texas , 78758-4520 United States 4thtap.coop"
+    },
+    "Independence Brewing Co.": {
+      "brewery_name": "Independence Brewing Co.",
+      "rating": 3.57,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5127070099",
+      "website": "independencebrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Xadoor",
+        "date": null
+      },
+      "address": "3913 Todd Ln Ste 607 Austin , Texas , 78744-1061 United States"
+    },
+    "Uncle Billy's Brew & Que": {
+      "brewery_name": "Uncle Billy's Brew & Que",
+      "rating": 3.57,
+      "types": [
+        "Brewery",
+        "Bar",
+        "Eatery",
+        "Beer-to-go"
+      ],
+      "phone": "5124760100",
+      "website": "unclebillysaustin.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "HumuloneRed",
+        "date": "06-02-2007"
+      },
+      "address": "1530 Barton Springs Rd. Austin , Texas , 78704 United States"
+    },
+    "Circle Brewing Company": {
+      "brewery_name": "Circle Brewing Company",
+      "rating": 3.52,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5128147599",
+      "website": "circlebrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "wagenvolks",
+        "date": "02-05-2011"
+      },
+      "address": "2340 W Braker Ln., Suite B Austin , Texas , 78758 United States"
+    },
+    "Infamous Brewing Company": {
+      "brewery_name": "Infamous Brewing Company",
+      "rating": 3.51,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5124878786",
+      "website": "infamousbrewing.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "JohnBender",
+        "date": "06-17-2013"
+      },
+      "address": "4601 Weletka Dr Ste 200 Austin , Texas , 78734-1835 United States"
+    },
+    "South Austin Brewery": {
+      "brewery_name": "South Austin Brewery",
+      "rating": 3.49,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5123542337",
+      "website": "southaustinbrewery.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Lawl",
+        "date": null
+      },
+      "address": "415 E St Elmo Rd Austin , Texas , 78745 United States"
+    },
+    "Naughty Brewing Co.": {
+      "brewery_name": "Naughty Brewing Co.",
+      "rating": 3.52,
+      "types": [
+        "Brewery"
+      ],
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "beeragent",
+        "date": "01-04-2014"
+      },
+      "address": "2314 Rutland Dr Ste 100 Austin , Texas , 78758-5273 United States | Beers are brewed at / by another brewery."
+    },
+    "Oskar Blues Brewery": {
+      "brewery_name": "Oskar Blues Brewery",
+      "rating": 3.48,
+      "types": [
+        "Brewery",
+        "Bar"
+      ],
+      "phone": "5122437054",
+      "website": "oskarblues.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Junichi",
+        "date": "07-31-2016"
+      },
+      "address": "10420 Metric Blvd Austin , Texas , 78758-4939 United States"
+    },
+    "Resignation Brewery": {
+      "brewery_name": "Resignation Brewery",
+      "rating": 3.41,
+      "types": [
+        "Brewery"
+      ],
+      "phone": "5125273500",
+      "website": "resignationbrewery.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "Jame",
+        "date": null
+      },
+      "address": "503 Neches St Austin , Texas , 78701-3709 United States Beers are brewed at / by another brewery."
+    },
+    "Thirsty Planet Brewing Company": {
+      "brewery_name": "Thirsty Planet Brewing Company",
+      "rating": 3.39,
+      "types": [
+        "Brewery"
+      ],
+      "phone": "5125790679",
+      "website": "thirstyplanet.net",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "wagenvolks",
+        "date": "06-29-2010"
+      },
+      "address": "11160 Circle Drive Austin , Texas , 78736 United States"
+    },
+    "Guns & Oil Brewing Co.": {
+      "brewery_name": "Guns & Oil Brewing Co.",
+      "rating": 3.35,
+      "types": [
+        "Brewery"
+      ],
+      "phone": "4058984179",
+      "website": "gunsandoil.com",
+      "notes": "No notes at this time.",
+      "author": {
+        "name": "bundy",
+        "date": null
+      },
+      "address": "807 E 4th St Austin , Texas , 78702 United States Beers are brewed at / by another brewery."
+    }
+  }
+}
